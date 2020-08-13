@@ -1,0 +1,8 @@
+uvicorn
+transcriptor
+elasticsearch
+elasticsearch-dsl
+slugify
+fastapi
+requests
+typer
