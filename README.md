@@ -1,0 +1,4 @@
+## ELASTIC TRANSCRIPTOR UPLOADER
+
+FastAPI Tool to Load your transcripts into the TRANSCRIPTOR DEVELOPER
+PROJECT
